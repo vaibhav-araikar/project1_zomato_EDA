@@ -117,4 +117,4 @@ New Delhi alone accounts for ~63% of all India Zomato listings, while large metr
 ---
 
 ## 👩‍💻 Author
-**Vaibhav Araikar**
+## Vaibhav Araikar
